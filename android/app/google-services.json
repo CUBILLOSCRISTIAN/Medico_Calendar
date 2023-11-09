@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229643626573",
+    "firebase_url": "https://calendarapp-86d88-default-rtdb.firebaseio.com",
+    "project_id": "calendarapp-86d88",
+    "storage_bucket": "calendarapp-86d88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229643626573:android:c8f3af833eba9779ec5404",
+        "android_client_info": {
+          "package_name": "com.example.calendario_medico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229643626573-hqnfc50a4hq867tr3p4cs5d8c8tkn0ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxgKRIDyb2Kud7x4HTT8ZnjUf3JxHtTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229643626573-hqnfc50a4hq867tr3p4cs5d8c8tkn0ar.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "229643626573-f7dkpoqqeonu8m55cllrlo5faldn4rkk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appcalendar.calendarapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
